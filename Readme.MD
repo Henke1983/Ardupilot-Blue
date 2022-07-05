@@ -6,4 +6,5 @@ I´m having this repo as "https://github.com/imfatant/test" baseplate
 1b) Downloaded this image instead, https://debian.beagleboard.org/images/bone-debian-10.3-console-armhf-2020-04-06-1gb.img.xz
 2. Downloaded etcher and flashed the image on the microSD card
 3. Put in the microSD in the BBB and connect it with a microUSB 
-4. Started putty and connect to it through 192.168.7.2 with password: temppwd 
+4a) Started putty and connect to it through 192.168.7.2 with password: temppwd
+4b) As I couldnt connect I connected thourhg wifi and added my wifi into Wifi.config in the bbb. 
